@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wo3sFyHbEdQdv1oVyqFLQKWaWbKLABVtIEn24X/kGjG12NKzYbWNeUrjJpi2ZlTKTjPtMW5JtfdT4LFjUP3qJA==",
+  "success": true,
+  "projectFilePath": "D:\\Lab1TailRecursion\\TailRecursion\\TailRecursion.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aswin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
